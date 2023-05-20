@@ -13,7 +13,14 @@ Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte
 <img align="center" height="500" width="100%" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
 <br/>
-<br/><br/><br/>
+<br/>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ahmedmahouc" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</div>
+
+<br/><br/>
 
 
 <p align="center">
@@ -23,11 +30,6 @@ Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte
   <img src="https://img.shields.io/github/stars/ahmedMahoauchi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
  
 </p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
 
 
 
