@@ -10,7 +10,7 @@
 Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte, Tunisia. Currently, I work as a mobile developer specializing in Android and iOS platforms. I take great pride in my engineering diploma in mobile development. It's my passion to explore and learn about the latest advancements in the mobile app world. If you have any questions or need assistance in the realm of mobile development, feel free to ask. Let's create amazing experiences for Android and iOS users together!.
 </p>
 <br/><br/>
-<img align="center" height="500" width="100%" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<img align="center" height="100%" width="100%" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
 <br/>
 <br/>
