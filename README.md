@@ -22,14 +22,17 @@ Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte
 
 <br/><br/>
 
+<div align="center">
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/ahmedMahoauchi" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ahmedMahoauchi?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/ahmedMahoauchi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmedMahoauchi&color=green)](https://github.com/ahmedMahoauchi)
+[![Followers](https://img.shields.io/github/followers/ahmedMahoauchi?label=Followers&style=social)](https://github.com/ahmedMahoauchi)
+[![Stars](https://img.shields.io/github/stars/ahmedMahoauchi?label=Stars)](https://github.com/ahmedMahoauchi)
+
+</div>
  
-</p>
+
+ 
+
 
 
 
